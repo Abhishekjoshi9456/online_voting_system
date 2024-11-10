@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.headersection{
+    padding: 5px;
+}
+.headersection h1{
+    font-family: cursive;
+}
+
+.bodysection input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.bodysection .dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.bodysection button{
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: rgb(58, 74, 217);
+    color: white;
+    box-shadow: 0 0 10px red;
+}
+
+.bodysection a{
+    text-decoration: none;
+}

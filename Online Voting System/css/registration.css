@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.headersection{
+    padding: 5px;
+}
+.headersection h1{
+    font-family: cursive;
+}
+
+.bodysection input{
+    padding: 10px;
+    border-radius: 5px;
+}
+.bodysection .address{
+    width: 25%;
+}
+.bodysection .uploadfile{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 25%;
+}
+.bodysection .role{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 25%;
+}
+.bodysection .role select{
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.bodysection button{
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: rgb(58, 74, 217);
+    color: white;
+    box-shadow: 0 0 10px red;
+
+}
+.bodysection a{
+    text-decoration: none;
+}
